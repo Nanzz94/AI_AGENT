@@ -48,12 +48,13 @@ This project requires access to external APIs for search results, which may incl
 
 ### To set up API keys:
 
-1. Create a .env file in the root directory of the project.
+1.Create a .env file in the root directory of the project.
 
 2.Add your API key(s) to the .env file in the following format:
 
 
 **GROQ_API_KEY=your_groq_api_key_here**
+
 **SERPAPI_API_KEY=your_serpapi_key_here**
 
 3.Ensure the code reads these environment variables when making requests.
