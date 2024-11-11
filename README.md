@@ -11,10 +11,9 @@ The Information Retrieval Agent is a Streamlit-based dashboard that enables user
 ## Installation Steps
 ## 1.Clone the repository:
 
+git clone https://github.com/yourusername/information-retrieval-agent.git
 
-""git clone https://github.com/yourusername/information-retrieval-agent.git""
-
-""cd information-retrieval-agent""
+cd information-retrieval-agent
 
 ## 2.Install dependencies:
 
@@ -28,7 +27,7 @@ Create a .env file in the project root directory to store your API keys. (See AP
 ## 4.Run the application:
 
 
-""streamlit run main.py""
+streamlit run main.py
 
 # Usage Guide
 
