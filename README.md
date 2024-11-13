@@ -59,15 +59,13 @@ This project requires access to external APIs for search results, which may incl
 
 3.Ensure the code reads these environment variables when making requests.
 
-# Optional Features
+# Advanced Features
+->Advanced Query Templates: Allow users to extract multiple fields in a single prompt, such as “Get the email and address for {company}.
+
 ->Customizable Query Template: The query template supports dynamic customization for retrieving different types of information (e.g., email addresses, contact numbers).
 
 ->Downloadable Results: Easily download the retrieved information in a CSV file format.
 
 ->Flexible API Configuration: Supports different APIs like Groq or SerpAPI, allowing users to choose based on their needs.
 
-# Future Improvements
 
-->Google Sheets Integration: The ability to connect Google Sheets directly to the app, allowing data to be pulled directly from and saved to Google Sheets.
-
-->Enhanced Information Extraction: Implement NLP-based filtering for more refined information extraction from the retrieved search results
