@@ -68,4 +68,7 @@ This project requires access to external APIs for search results, which may incl
 
 ->Flexible API Configuration: Supports different APIs like Groq or SerpAPI, allowing users to choose based on their needs.
 
+# Note
+I have provided a sample csv file to upload
+
 
