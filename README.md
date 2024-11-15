@@ -71,4 +71,15 @@ This project requires access to external APIs for search results, which may incl
 # Note
 I have provided a sample csv file to upload
 
+# Screenshots 
 
+
+![Screenshot 2024-11-15 221836](https://github.com/user-attachments/assets/66c7d331-24cf-4010-96a6-871075b5ee6b)
+
+
+
+![Screenshot 2024-11-15 221859](https://github.com/user-attachments/assets/c8e096bb-e6e0-4788-aef7-b0a1125a4480)
+
+
+
+![Screenshot 2024-11-15 221936](https://github.com/user-attachments/assets/c7190cf4-0e17-43c5-b988-4dc2f28af3bd)
